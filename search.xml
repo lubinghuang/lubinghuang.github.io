@@ -112,31 +112,31 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/my-category-style.css"/>
+      <url>/css/my-category-style.css</url>
+      
+        <content type="html"><![CDATA[#categoryBar {  width: 100% !important;}ul.categoryBar-list {  margin: 5px 5px 0 5px !important;  padding: 0 !important;}li.categoryBar-list-item {  font-weight: bold; /* 文字加粗 */  display: inline-block; /* 横向排列（类似行内块元素） */  height: 180px !important; /* 磁贴固定高度 */  margin: 5px 0.5% 0 0.5% !important; /* 磁贴之间的间距（左右各0.5%） */  background-image: linear-gradient(rgba(0,0,0,0.4) 25%, rgba(16,16,16,0) 100%); /* 顶部深色渐变遮罩 */  border-radius: 10px; /* 圆角边框（柔和边缘） */  padding: 25px 0 25px 25px !important; /* 内边距（左25px，上下25px，右0） */  box-shadow: rgba(50,50,50,0.3) 50px 50px 50px 50px inset; /* 深灰色内阴影（增强质感） */  overflow: hidden; /* 超出磁贴的内容隐藏（如背景图放大时） */  background-size: 100% !important; /* 背景图（cover配置的图片）占满磁贴 */  background-position: center !important; /* 背景图居中显示 */}li.categoryBar-list-item:hover {  background-size: 110% !important; /* 背景图放大到110%（视觉焦点） */  box-shadow: inset 500px 50px 50px 50px rgba(50,50,50,0.6); /* 内阴影加深（更暗的遮罩） */}li.categoryBar-list-item:hover span.categoryBar-list-descr {  transition: all 0.5s; /* 动画持续0.5秒 */  transform: translate(-100%, 0); /* 从右侧移到可见位置（左移100%自身宽度） */}a.categoryBar-list-link {  color: #fff !important; /* 文字白色（与深色背景对比） */  font-size: 20px !important; /* 文字大小 */}a.categoryBar-list-link::before {  content: '|' !important; /* 链接前添加「|」符号（装饰） */  color: #fff !important; /* 符号颜色白色 */  font-size: 20px !important; /* 符号大小 */}a.categoryBar-list-link:after {  content: ''; /* 空内容（用于下划线效果） */  position: relative;  width: 0; /* 默认宽度0（不可见） */  bottom: 0;  display: block;  height: 3px; /* 下划线高度 */  border-radius: 3px; /* 下划线圆角 */  background-color: #fff; /* 下划线白色 */}a.categoryBar-list-link:hover:after {  width: 90%; /* hover时宽度变为90%（显示下划线） */  left: 1%; /* 轻微左移，避免贴边 */  transition: all 0.5s; /* 下划线动画持续0.5秒 */}span.categoryBar-list-count {  display: block !important; /* 块级元素（单独占一行） */  color: #fff !important; /* 白色文字 */  font-size: 20px !important; /* 文字大小 */}span.categoryBar-list-count::before {  content: '\f02d' !important; /* Font Awesome 书签图标（Unicode编码） */  padding-right: 15px !important; /* 图标与文字间距 */  display: inline-block;  font-weight: 600;  font-style: normal;  font-variant: normal;  font-family: 'Font Awesome 6 Free'; /* 指定图标字体（必须） */  text-rendering: auto;  -webkit-font-smoothing: antialiased; /* 图标平滑显示 */}span.categoryBar-list-descr {  padding: 5px; /* 内边距 */  display: block !important; /* 块级元素（单独占一行） */  color: #fff !important; /* 白色文字 */  font-size: 20px !important; /* 文字大小 */  position: relative;  right: -100%; /* 默认在磁贴右侧（超出可视区域，不可见） */}@media screen and (max-width: 650px) {  li.categoryBar-list-item {    width: 48% !important; /* 手机端显示2列（每列占48%宽度） */    height: 150px !important; /* 高度减小（适配小屏幕） */    margin: 5px 1% 0 1% !important; /* 左右间距增大到1%（避免拥挤） */  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>照片</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>游戏</title>
-      <link href="/game/index.html"/>
-      <url>/game/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -156,9 +156,20 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>游戏</title>
+      <link href="/game/index.html"/>
+      <url>/game/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>照片</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -178,11 +189,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
