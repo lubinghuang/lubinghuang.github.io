@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<p>“大家好这是我基于GitHub+hexo框架做的博客”</p>]]></content>
       
       
+      <categories>
+          
+          <category> 电赛培训 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -128,6 +140,17 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
