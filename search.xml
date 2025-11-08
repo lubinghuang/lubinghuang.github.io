@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>嘉立创电热膜培训有感</title>
+      <link href="/2025/11/08/%E7%94%B5%E7%83%AD%E8%86%9C%E5%9F%B9%E8%AE%AD%E6%9C%89%E6%84%9F/"/>
+      <url>/2025/11/08/%E7%94%B5%E7%83%AD%E8%86%9C%E5%9F%B9%E8%AE%AD%E6%9C%89%E6%84%9F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="嘉立创电热膜培训有感"><a href="#嘉立创电热膜培训有感" class="headerlink" title="嘉立创电热膜培训有感"></a>嘉立创电热膜培训有感</h1><h2 id="项目要求"><a href="#项目要求" class="headerlink" title="项目要求"></a>项目要求</h2><p><img src="https://image.lceda.cn/oshwhub/pullImage/781db8a287e74eddace2ce4be2ab5fae.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7d06233819dc449b8ba8bf836ce88a60.png" alt="image.png"></p><h2 id="实践过程"><a href="#实践过程" class="headerlink" title="实践过程"></a>实践过程</h2><p>1.打开cad软件，这里以auto_cad为例，点击左上角打开矩形，设置200*200，内缩3（o）.<br><img src="https://image.lceda.cn/oshwhub/pullImage/ee4e39c2544b4dcfa0155cbbedb3e1db.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/2180e1ace3694590863f103911d2296c.png" alt="image.png"><br>2.根据r&#x3D;8.02,发热材料计算发热丝间距，这里选择铜0.05作为发热材料.得出应该设置线宽1.8，中心线间距3.52727，发热丝间距1.72727,可布线数56.</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/e8270cae991a4d45955a7631aaa10c39.png" alt="image.png"></p><p>3.（x）打散内缩线框，并阵列56条线<br>1列，56行，介于3.52727<br><img src="https://image.lceda.cn/oshwhub/pullImage/713a925f3e404794a0cd52f9065a860e.png" alt="image.png"><br>4.直线连接上下中点（o）向右偏移3.5</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/494a436b47254729995d1a8c8ade6486.png" alt="image.png"><br>5.（tr）裁剪线段成如图</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/6e956c4be48647dcbd2d2a62af85e10c.png" alt="image.png"><br>6.（o）偏移中间两线条成如图样式</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/0d4817371a63484985bc54f60102a409.png" alt="image.png"><br>7.复制成如图样式</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/aadd043305aa48e8a6f370f4c8236e8d.png" alt="image.png"><br>8绘制焊盘<br>查询图纸可得线为14wag的，查表得应用5<em>5焊盘，故绘制5</em>5矩形，并用直线连接两矩形几何中心，点击直线中心移至电热膜中。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/90f6a0fdad0f409eb7ccb40257759ac1.png" alt="image.png">，</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/84ce453b64ec45979baa0a1a3e621355.png" alt="image.png"><br>9.倒角，（f）（r）（1.5）（p）选中，电热膜便成功倒角。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/10709206c45d404ebbc0436831b170dc.png" alt="image.png"><br>10.设置线宽，右键线条，快捷特征，查看线长为10870</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/3cd77f3b8d314e2d8b9df56afbe418d7.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/5d86d1bb89974d609809f582ff74c9a6.png" alt="image.png"><br>11.带入公式计算，1&#x2F;2线宽为0.90809</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/4ffa12388cbd4919a48ca48e35eed341.png" alt="image.png"><br>12.在cad中（o）偏移线成功绘制线宽</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/a0ef8ea88efb4a138da800ec1ae6d3d8.png" alt="image.png"><br>13.填充颜色（h）<br>，选中线条边框即可完成填充<br><img src="https://image.lceda.cn/oshwhub/pullImage/3c148ccb3c494321ac0007be106e05ad.png" alt="image.png"><br>这样cad就画好了<br>（）里的是cad的快捷键，输入字母加空格即可使用<br>提供一些常用的快捷键作为参考</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/bd60635b83da4dde852db0d1821a07c6.png" alt="image.png"><br>学会这个你就可以去嘉立创电热膜兼职了。<br>注意事项：通常线条join不了的原因是线条没闭合。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开源项目 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2025-11-1之前的经历汇总</title>
       <link href="/2025/11/01/%E7%BB%8F%E5%8E%86%E6%B1%87%E6%80%BB/"/>
       <url>/2025/11/01/%E7%BB%8F%E5%8E%86%E6%B1%87%E6%80%BB/</url>
@@ -29,41 +54,16 @@
     
     
     <entry>
-      <title>2025-11-1第三篇文章</title>
-      <link href="/2025/10/31/2025-11-1%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2025/10/31/2025-11-1%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>stm32客制键盘的qmk烧录教程</title>
+      <link href="/2025/10/31/stm32%E5%AE%A2%E5%88%B6%E9%94%AE%E7%9B%98%E7%9A%84qmk%E7%83%A7%E5%BD%95%E6%95%99%E7%A8%8B/"/>
+      <url>/2025/10/31/stm32%E5%AE%A2%E5%88%B6%E9%94%AE%E7%9B%98%E7%9A%84qmk%E7%83%A7%E5%BD%95%E6%95%99%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<p>“大家好这是我基于GitHub+hexo框架做的博客”</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="stm32客制键盘的qmk烧录教程"><a href="#stm32客制键盘的qmk烧录教程" class="headerlink" title="stm32客制键盘的qmk烧录教程"></a>stm32客制键盘的qmk烧录教程</h1><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>介绍基于stm32f103c8t6单片机的客制键盘的qmk固件烧录。<br>QMK固件的核心特点可以简单总结为：</p><ol><li>极度自由的自定义：想改键就改键，想加宏就加宏，按键功能完全自己说了算</li><li>适配性强：支持各种键盘硬件和系统</li><li>功能丰富：带灯效控制、层切换、宏功能等实用工具</li><li>开源免费：有庞大社区支持，新手也能快速上手</li><li>轻巧高效：代码精简，不占过多硬件资源</li></ol><h2 id="PCB设计"><a href="#PCB设计" class="headerlink" title="PCB设计"></a>PCB设计</h2><p><img src="https://image.lceda.cn/oshwhub/pullImage/4d354f9bc307453baa9728ff105f08d9.png" alt="image.png"><br>pcb的原理图如上所示，主控是stm32f103c8t6，供电ams1117—3.3，轴座，16ptypec接口，8mhz晶振，1n5819ws二极管。<br>由于我的ws2812灯珠买错型号，便没有进行焊接</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/2bd46eaf00754ae3a115284f8ecb9825.png" alt="4f7ae72083e84d9478de8ffd261839e7.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/6cb188b643c543169ab95dc7679c19d9.png" alt="41fbac5255589fd4099b8aa88b08418f.png"><br>                        顶面<br><img src="https://image.lceda.cn/oshwhub/pullImage/98bb090e6ae9464f94987b08b80b5f59.png" alt="image.png"><br>                        底面</p><h2 id="电路调试"><a href="#电路调试" class="headerlink" title="电路调试"></a>电路调试</h2><p>本次pcb均采用较大封装与插件，容易焊接。stm32芯片新手焊接容易虚焊，焊接完第一步是使用stlink-ulitity检查是否扫描得到芯片，扫描到后，烧录stm32duino_bootloader，之后键盘固件烧录我们选用typec进行。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/65b578296f7e43f6beecf203faa0f997.png" alt="image.png"><br>烧录后我们开始qmk固件的准备。<br>我们需要2个文件：</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/4bbe74d9184e4b298f40c44eca7d43e9.png" alt="image.png"><br>首先我们要下载qmkbox</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/391813fb48754ab38acb5615cb8485a2.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/cf5d24678ccf406d8933548d6c609209.png" alt="image.png"><br>解压出来<br><img src="https://image.lceda.cn/oshwhub/pullImage/b6eba2dd56c344e4b779794ae4a677ce.png" alt="f2c302c8a47b62c69d9dc23d321aa122.png"><br>接下来我们下载qmkmsys</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/bdf86215dd674af998d16aece92a1a5a.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/4f05c05a1bd64fe3bcddc493e3c4c2ee.png" alt="image.png"><br>解压后便是下图<br><img src="https://image.lceda.cn/oshwhub/pullImage/8534a7dfef0649378da17aeae0d8e2ce.png" alt="6d386a1fb946bab71579e25322b183b4.png"><br>接着我们打开qmkbox</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/137e486a0e8d41ef9de5e4aa9b285d19.png" alt="015e818789799e3bee8ddd319d1de833.png"><br>输入qmk setup，终端便会自动下载固件所需的环境。<br><img src="https://image.lceda.cn/oshwhub/pullImage/723f30e298bb4bdabc0c9232ac9762ca.png" alt="818a956d11291d5e6f504d4de5baaf00.png"><br>我们打开c盘用户，会发现多了一个qmk的文件，这是我们固件存放的地方</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/e079a9e4bb2e4ae09b588497d2b6fccd.png" alt="image.png"><br>接着点击进去，打开keyborad文件夹，这是官方给的示例，我们新建一个文件夹，用来存放我的自己的固件，下方这个stm32kb是我自己创建的。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/ae20eda005024b9294ac7365402932bb.png" alt="image.png"><br>打开后我们自行新建这些文件</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/bece1fb526324c15b4c3b310f0c1d673.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/a264efd7490d4bd8a7c28227d6ec1bee.png" alt="image.png"><br>我们用编译器打开文件夹，这里以vc为例，</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/6d8de2dc8db041cebc9e04aab49038ff.png" alt="5fca656c8a55417bc14fbb8ac091a776.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/61d529ddfdff4391b608c65fc60562c8.png" alt="3d05f538310e3c91dc29aa1aff5db270.png"><br>keymap是用来存放我们键盘的布局的，需要根据原理图调整。<br><img src="https://image.lceda.cn/oshwhub/pullImage/4c5e21743da345628d0053bf161cc967.png" alt="60a5375850fff6c3b6579a8329072f76.png"></p><p>这些是重中之重，用来对应键盘上的row和col的，需要检测仔细<br><img src="https://image.lceda.cn/oshwhub/pullImage/89049bb78f2b464287807c4d4f66bc4f.png" alt="image.png"><br>这些是固定格式</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/eff4277ce7e647658d73c2d70b0202a4.png" alt="d7a3d861cc774805383be87c739cde86.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/49fa975aaebd4102b9e96e64f2f16993.png" alt="cd30984328c007dfd048cc237ae5c408.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/0b8b05cb95a84ea9ba3137047c35f32e.png" alt="665cb92143ce9e0865e90fe9a5867418.png"></p><p>这些是布局描述，可自行修改</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/162e6d4b06894ec7a439ecc60451a257.png" alt="3358d69de8d8bf27a3cce92c08475e94.png"><br>这些是优化功能</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/c01f67cded264268b196ba2acd0b5cf7.png" alt="ee81df64519673823f8cb7dd57f1d011.png"></p><p>这是几行几列定义<br><img src="https://image.lceda.cn/oshwhub/pullImage/687497ee5ae74bf79baa023a7761ac9a.png" alt="57fd2303403f2f20a967a4a4ef1b6ae8.png"></p><p>接下来是部分按键键码图片，详细请到官网查看。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/4d23a40a09da4e4086d1531bac717b41.png" alt="0c3a879521061073e9f6b801e9a744b9.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/e951180c7f0944299a14dff98d60af79.png" alt="ca4a76cb2dbe6e8d84aa6af4324aafc3.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/56f8c3bb9954429bb3422ee69fb1c1ee.png" alt="a17c063aa6b0cb12a44b283c53e43b96.png"><br>这样，我们的键盘的固件便配置完成，接下来我们来编译固件。<br>我们打开qmk msys<br>输入下图代码，便开始编译。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/82945bc522114f0ea0316a9413085a00.png" alt="22ab0c7d86e91461af683d5f38f167bc.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/fadcfdcef76549e7af4b4f77797be355.png" alt="5d5a58b1cefebf81a90f894086239c4c.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/3e2b717752f7401480f826daf49692e9.png" alt="9613493dc82c46f9da4869ed4535d5d7.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7403c4753a844447b17dc8d1636388be.png" alt="60d90a6531d5fad0906d1ba5ff5dc900.png"><br>这样就编译完了，由于我之前编译过所以会比较快，第一次烧录通常回2到3分钟，请大家耐心等待。<br>编译完后我们开始烧录固件，编译完的固件放在build文件夹里。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/10ad91c879494b38889a78f83ef5090c.png" alt="image.png"><br>我们打开qmkbox，打开固件所在位置文件，按下复位键，便可以烧录了</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/f6f3fa5db0b041c599396853235ecac3.png" alt="9423a8c6ef669d94effd1d0b0f4f3ac3.png"><br>总结，花了2天时间接触这个qmk固件烧录，也遇到不少难题，最后烧录成功，我的内心也不少感慨，希望我的教程能帮助更多的客制键盘爱好者，也感谢嘉立创给我提供了这个平台，让我白嫖了好多板子，让我的想法得以实现，现在的我，以后的我都会是嘉立创eda最忠实的支持者。</p>]]></content>
       
       
       <categories>
           
           <category> 开源项目 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 技术 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2025-10-31第二篇文章</title>
-      <link href="/2025/10/31/2025-10-31%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2025/10/31/2025-10-31%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<p>“大家好这是我基于GitHub+hexo框架做的博客”</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 电赛培训 </category>
           
       </categories>
       
@@ -98,25 +98,6 @@
             <tag> 技术 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2025/10/27/hello-world/"/>
-      <url>/2025/10/27/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 经历 </category>
-          
-      </categories>
-      
       
     </entry>
     
