@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>#第十届立创电赛#小智ai训练营</title>
-      <link href="/2025/11/08/#%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%AB%8B%E5%88%9B%E7%94%B5%E8%B5%9B#%E5%B0%8F%E6%99%BAai%E8%AE%AD%E7%BB%83%E8%90%A5/"/>
-      <url>/2025/11/08/#%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%AB%8B%E5%88%9B%E7%94%B5%E8%B5%9B#%E5%B0%8F%E6%99%BAai%E8%AE%AD%E7%BB%83%E8%90%A5/</url>
+      <title>第十届立创电赛小智ai训练营</title>
+      <link href="/2025/11/08/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%AB%8B%E5%88%9B%E7%94%B5%E8%B5%9B%E5%B0%8F%E6%99%BAai%E8%AE%AD%E7%BB%83%E8%90%A5/"/>
+      <url>/2025/11/08/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%AB%8B%E5%88%9B%E7%94%B5%E8%B5%9B%E5%B0%8F%E6%99%BAai%E8%AE%AD%E7%BB%83%E8%90%A5/</url>
       
-        <content type="html"><![CDATA[<h1 id="第十届立创电赛-小智ai训练营"><a href="#第十届立创电赛-小智ai训练营" class="headerlink" title="第十届立创电赛#小智ai训练营"></a>第十届立创电赛#小智ai训练营</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>嘉立创小智ai训练营的基于 立创开源蓝牙模组 制作的简易AI对话机器人，实现AI实时语音对话。它能够听懂你的情绪，解答你的疑惑，也能分享你的快乐。</p><h2 id="项目实物图"><a href="#项目实物图" class="headerlink" title="项目实物图"></a>项目实物图</h2><p><img src="https://image.lceda.cn/oshwhub/pullImage/fa82c87360a34eb7bf0fa7d299d90986.jpg" alt="de64194b8eef9f3352e015f030218927.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/6f01f310d7784461b38f3b662d4140b4.jpg" alt="8108fd8e41b2312a32ca7fe4bf970f33.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/81eeefb0f86240909d8ba51af26e4c9b.jpg" alt="a291c23ca306bfcc67983e234d3d7dff.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/e6d2c9f37b2045d58cf36fd3ff8372bb.jpg" alt="d7192e10d3f1689731dc6e425a17f537.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/537606b071a44fe087a693561ae93e11.jpg" alt="daf7422fe5464d4418e40c551bcc7a73.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/c517789b93be4bfd94f0e6ddc8fc8d8a.jpg" alt="cc4b0fd91769d537d2a6e3081b71401b.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/10b0d34020204d239c22c15a3ca46104.jpg" alt="43ccb0033a6a07bad18668eb8b1f207d.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/418413f3f81e40739b083e7b187af409.jpg" alt="6b3c609a0356359f99557a13723a2385.jpg"></p><h2 id="视频链接："><a href="#视频链接：" class="headerlink" title="视频链接："></a>视频链接：</h2><p><a href="https://www.bilibili.com/video/BV14Ne8zcEQy/?vd_source=6956eb6c049c3e15e1b06d5ec44aed80">B站视频–功能演示及介绍</a></p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>基于立创开源蓝牙模组 制作的简易AI对话机器人，实现AI实时语音对话。它能够听懂你的情绪，解答你的疑惑，也能分享你的快乐。</p><h2 id="项目功能"><a href="#项目功能" class="headerlink" title="项目功能"></a>项目功能</h2><p>本设计是基于LC-OPEN-SF32LB52蓝牙模块设计的小智ai语音机器人；设置有2个独立按键，一个功能为连接蓝牙和打断语音，一个按键目前待定用途，设计出来备用。按键式人机交互，当语音正在播报时，可以按下按键重新呼叫小智；该项目采用蓝牙连接共享网络，轻便简洁，易于携带。且小智语言模型可以随时通过小智ai聊天机器人官网进行修改。（<a href="https://xiaozhi.me/%EF%BC%89">https://xiaozhi.me/）</a></p><h2 id="项目参数"><a href="#项目参数" class="headerlink" title="项目参数"></a>项目参数</h2><ul><li>本设计采用SF32LB52蓝牙模块，通过蓝牙共享网络实现联网；</li><li>本设计采用1.69寸tft显示，上面行显示当前的时间年月，当前城市的温度天气，下面行显示蓝牙连接情况、网络连接情况、以及当前的电量显示；</li><li>本设计采用LM4871N音频功率放大器，给扬声器提供足够的功率输出；</li><li>本设计采用GMI6050P-36db咪头，语音输入干净清晰；</li><li>本设计选用cr123a16340锂电池3.7v3200供电，满足单片机及扬声器功率需求<br>（此处为示例，在填写完后请将说明文字删除）</li></ul><h2 id="原理解析（硬件说明）"><a href="#原理解析（硬件说明）" class="headerlink" title="原理解析（硬件说明）"></a>原理解析（硬件说明）</h2><p>本项目由以下部分组成，电源部分、LED照明部分、主控部分、语音输入输出部分，串口下载部分，屏幕部分，本项目主要是通过麦克风接收语音信号并进行处理，提取人声进行解析比较，当声音符合指令后，进行对应的控制操作。<br><img src="https://image.lceda.cn/oshwhub/pullImage/d0fdd88db15c45569207ea67189fac17.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/f311c27956894a50951d8a5989d6abf2.png" alt="image.png"><br>电源电路：<br>采用电池盒接口作为供电接口，使用滑动开关进行电源控制，电源与单片机的vsys口短接。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/1325bcc9d32942668e6e402404fce1aa.png" alt="image.png"></p><p>LED与按键电路：<br>u7按键目前待用，设计出来备用；<br>在另一按键中，pa34_key下拉电阻，电平为低电平，待按键按下后，pa34_key电平变为高电平,实现按键的检测。</p><p>led的一端接pa32_led,一断串联一个10k电阻限流，再连接到+3.3v，待pa32输出低电平，led将会被点亮。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/2faee18539ba4d02a3976a03ed002a8b.png" alt="image.png"><br>主控电路<br>pa42-&gt;屏幕背光<br>pa39-&gt;备用按键<br>pa34-&gt;主要按键<br>pa32-&gt;led灯<br>pa0，pa03，pa04，pa05，pa06-&gt;屏幕引脚<br>mic_adc_in-&gt;咪头输入<br>mic_bias-&gt;咪头开关<br>au_dac1n-&gt;功放输入<br>au_dac1p-&gt;功放输入</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/d6db2ec212434a5880c54b31480ae25d.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7ea071e6ff2f4029bca792f670dafd08.png" alt="image.png"><br>语音输入输出电路<br>AU_DAC1P 和 AU_DAC1N：这是差分音频输入信号，通常来自数模转换器（DAC），用于提供待放大的音频信号。<br>电容 C5、C6：均为 100nF的电容，起到隔直作用。<br>Shutdown（关断） 引脚：提供合适的电平，控制芯片的工作状态。<br>Bypass：旁路引脚，通常接电容。</p><h2 id="硬件图"><a href="#硬件图" class="headerlink" title="硬件图"></a>硬件图</h2><p>正面<br><img src="https://image.lceda.cn/oshwhub/pullImage/316da3d648d34a458089ff5277885ca3.png" alt="image.png"><br>反面</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7fa73a7ad5f54681afcaef1ff7680bb6.png" alt="image.png"></p><h2 id="代码烧录"><a href="#代码烧录" class="headerlink" title="代码烧录"></a>代码烧录</h2><p>烧录准备<br>1.硬件连接<br><img src="https://image.lceda.cn/oshwhub/pullImage/fa48ee2944674f18b64f19a6c4c355ca.png" alt="image.png"><br>2.下载sftool<br><a href="https://github.com/OpenSiFli/sftool">https://github.com/OpenSiFli/sftool</a><br>3.下载固件<br><a href="https://github.com/78/xiaozhi-sf32/releases">https://github.com/78/xiaozhi-sf32/releases</a><br>xty_tht<br>4.文件放在一起</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/83934ff934df4b22b147762133bddee8.png" alt="image.png"><br>右键打开终端</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/8babd1e5947341edac77fcb76f3466ca.png" alt="image.png"><br>1.2.复制\sftool.exe -p COM3 -c SF32LB52 write_flash bootloader.bin@0x12010000 ftab.bin@0x12000000 ER_IROM2.bin@0x12A28000 ER_IROM3.bin@0x12228000 ER_IROM1.bin@0x12020000<br>1.3复制.&#x2F;sftool.exe -p COM3 -c SF32LB52 write_flash bootloader.bin@0x12010000 ftab.bin@0x12000000 ER_IROM2.bin@0x12A28000 ER_IROM3.bin@0x12268000 ER_IROM1.bin@0x12020000</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/f33f387ee1ee48aea45e620c4e0de06a.png" alt="image.png"><br>修改串口</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/39776588edd841769e4611721de96283.png" alt="image.png"><br>回车，即可等待烧录成功。<br>烧录成功后屏幕点亮。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="第十届立创电赛-小智ai训练营"><a href="#第十届立创电赛-小智ai训练营" class="headerlink" title="第十届立创电赛#小智ai训练营"></a>第十届立创电赛#小智ai训练营</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>嘉立创小智ai训练营的基于 立创开源蓝牙模组 制作的简易AI对话机器人，实现AI实时语音对话。它能够听懂你的情绪，解答你的疑惑，也能分享你的快乐。</p><h2 id="项目实物图"><a href="#项目实物图" class="headerlink" title="项目实物图"></a>项目实物图</h2><p><img src="https://image.lceda.cn/oshwhub/pullImage/fa82c87360a34eb7bf0fa7d299d90986.jpg" alt="de64194b8eef9f3352e015f030218927.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/6f01f310d7784461b38f3b662d4140b4.jpg" alt="8108fd8e41b2312a32ca7fe4bf970f33.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/81eeefb0f86240909d8ba51af26e4c9b.jpg" alt="a291c23ca306bfcc67983e234d3d7dff.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/e6d2c9f37b2045d58cf36fd3ff8372bb.jpg" alt="d7192e10d3f1689731dc6e425a17f537.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/537606b071a44fe087a693561ae93e11.jpg" alt="daf7422fe5464d4418e40c551bcc7a73.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/c517789b93be4bfd94f0e6ddc8fc8d8a.jpg" alt="cc4b0fd91769d537d2a6e3081b71401b.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/10b0d34020204d239c22c15a3ca46104.jpg" alt="43ccb0033a6a07bad18668eb8b1f207d.jpg"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/418413f3f81e40739b083e7b187af409.jpg" alt="6b3c609a0356359f99557a13723a2385.jpg"></p><h2 id="视频链接："><a href="#视频链接：" class="headerlink" title="视频链接："></a>视频链接：</h2><p><a href="https://www.bilibili.com/video/BV14Ne8zcEQy/?vd_source=6956eb6c049c3e15e1b06d5ec44aed80">B站视频–功能演示及介绍</a></p><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>基于立创开源蓝牙模组 制作的简易AI对话机器人，实现AI实时语音对话。它能够听懂你的情绪，解答你的疑惑，也能分享你的快乐。</p><h2 id="项目功能"><a href="#项目功能" class="headerlink" title="项目功能"></a>项目功能</h2><p>本设计是基于LC-OPEN-SF32LB52蓝牙模块设计的小智ai语音机器人；设置有2个独立按键，一个功能为连接蓝牙和打断语音，一个按键目前待定用途，设计出来备用。按键式人机交互，当语音正在播报时，可以按下按键重新呼叫小智；该项目采用蓝牙连接共享网络，轻便简洁，易于携带。且小智语言模型可以随时通过小智ai聊天机器人官网进行修改。（<a href="https://xiaozhi.me/%EF%BC%89">https://xiaozhi.me/）</a></p><h2 id="项目参数"><a href="#项目参数" class="headerlink" title="项目参数"></a>项目参数</h2><ul><li>本设计采用SF32LB52蓝牙模块，通过蓝牙共享网络实现联网；</li><li>本设计采用1.69寸tft显示，上面行显示当前的时间年月，当前城市的温度天气，下面行显示蓝牙连接情况、网络连接情况、以及当前的电量显示；</li><li>本设计采用LM4871N音频功率放大器，给扬声器提供足够的功率输出；</li><li>本设计采用GMI6050P-36db咪头，语音输入干净清晰；</li><li>本设计选用cr123a16340锂电池3.7v3200供电，满足单片机及扬声器功率需求</li></ul><h2 id="原理解析（硬件说明）"><a href="#原理解析（硬件说明）" class="headerlink" title="原理解析（硬件说明）"></a>原理解析（硬件说明）</h2><p>本项目由以下部分组成，电源部分、LED照明部分、主控部分、语音输入输出部分，串口下载部分，屏幕部分，本项目主要是通过麦克风接收语音信号并进行处理，提取人声进行解析比较，当声音符合指令后，进行对应的控制操作。<br><img src="https://image.lceda.cn/oshwhub/pullImage/d0fdd88db15c45569207ea67189fac17.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/f311c27956894a50951d8a5989d6abf2.png" alt="image.png"><br>电源电路：<br>采用电池盒接口作为供电接口，使用滑动开关进行电源控制，电源与单片机的vsys口短接。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/1325bcc9d32942668e6e402404fce1aa.png" alt="image.png"></p><p>LED与按键电路：<br>u7按键目前待用，设计出来备用；<br>在另一按键中，pa34_key下拉电阻，电平为低电平，待按键按下后，pa34_key电平变为高电平,实现按键的检测。</p><p>led的一端接pa32_led,一断串联一个10k电阻限流，再连接到+3.3v，待pa32输出低电平，led将会被点亮。</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/2faee18539ba4d02a3976a03ed002a8b.png" alt="image.png"><br>主控电路<br>pa42-&gt;屏幕背光<br>pa39-&gt;备用按键<br>pa34-&gt;主要按键<br>pa32-&gt;led灯<br>pa0，pa03，pa04，pa05，pa06-&gt;屏幕引脚<br>mic_adc_in-&gt;咪头输入<br>mic_bias-&gt;咪头开关<br>au_dac1n-&gt;功放输入<br>au_dac1p-&gt;功放输入</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/d6db2ec212434a5880c54b31480ae25d.png" alt="image.png"></p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7ea071e6ff2f4029bca792f670dafd08.png" alt="image.png"><br>语音输入输出电路<br>AU_DAC1P 和 AU_DAC1N：这是差分音频输入信号，通常来自数模转换器（DAC），用于提供待放大的音频信号。<br>电容 C5、C6：均为 100nF的电容，起到隔直作用。<br>Shutdown（关断） 引脚：提供合适的电平，控制芯片的工作状态。<br>Bypass：旁路引脚，通常接电容。</p><h2 id="硬件图"><a href="#硬件图" class="headerlink" title="硬件图"></a>硬件图</h2><p>正面<br><img src="https://image.lceda.cn/oshwhub/pullImage/316da3d648d34a458089ff5277885ca3.png" alt="image.png"><br>反面</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/7fa73a7ad5f54681afcaef1ff7680bb6.png" alt="image.png"></p><h2 id="代码烧录"><a href="#代码烧录" class="headerlink" title="代码烧录"></a>代码烧录</h2><p>烧录准备<br>1.硬件连接<br><img src="https://image.lceda.cn/oshwhub/pullImage/fa48ee2944674f18b64f19a6c4c355ca.png" alt="image.png"><br>2.下载sftool<br><a href="https://github.com/OpenSiFli/sftool">https://github.com/OpenSiFli/sftool</a><br>3.下载固件<br><a href="https://github.com/78/xiaozhi-sf32/releases">https://github.com/78/xiaozhi-sf32/releases</a><br>xty_tht<br>4.文件放在一起</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/83934ff934df4b22b147762133bddee8.png" alt="image.png"><br>右键打开终端</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/8babd1e5947341edac77fcb76f3466ca.png" alt="image.png"><br>1.2.复制\sftool.exe -p COM3 -c SF32LB52 write_flash bootloader.bin@0x12010000 ftab.bin@0x12000000 ER_IROM2.bin@0x12A28000 ER_IROM3.bin@0x12228000 ER_IROM1.bin@0x12020000<br>1.3复制.&#x2F;sftool.exe -p COM3 -c SF32LB52 write_flash bootloader.bin@0x12010000 ftab.bin@0x12000000 ER_IROM2.bin@0x12A28000 ER_IROM3.bin@0x12268000 ER_IROM1.bin@0x12020000</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/f33f387ee1ee48aea45e620c4e0de06a.png" alt="image.png"><br>修改串口</p><p><img src="https://image.lceda.cn/oshwhub/pullImage/39776588edd841769e4611721de96283.png" alt="image.png"><br>回车，即可等待烧录成功。<br>烧录成功后屏幕点亮。</p>]]></content>
       
       
       <categories>
@@ -20,7 +20,7 @@
       
         <tags>
             
-            <tag> 经历 </tag>
+            <tag> 技术 </tag>
             
         </tags>
       
@@ -157,9 +157,9 @@
     
     
     <entry>
-      <title>照片</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -168,9 +168,9 @@
     
     
     <entry>
-      <title>游戏</title>
-      <link href="/game/index.html"/>
-      <url>/game/index.html</url>
+      <title>照片</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -212,31 +212,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>游戏</title>
+      <link href="/game/index.html"/>
+      <url>/game/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -256,9 +234,31 @@
     
     
     <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
